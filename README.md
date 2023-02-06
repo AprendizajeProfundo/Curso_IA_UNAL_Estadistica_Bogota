@@ -71,7 +71,6 @@ Curso de Inteligencia Artificial. Departamento de Estadística, Sede Bogotá, UN
   
 - Primera Red Neuronal con la API Sequential de Keras (Simulación) [nbviewer](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Hello_World_ML.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Hello_World_ML.ipynb)
 [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.html)
-
 - Ejemplo de Visualización del entrenamiento de una red neuronal[nbviewer](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_NN_Animation.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_NN_Animation.ipynb)
 - Primera Red Neuronal con la API Sequential de Keras (MNIST) [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Intro_Keras_Sequential.ipynb)
 - Red Neuronal Desde Cero [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Red_De_Cero.ipynb)
@@ -106,18 +105,18 @@ Curso de Inteligencia Artificial. Departamento de Estadística, Sede Bogotá, UN
    - Temporal Fusion Transformer [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Series%20de%20Tiempo/Cuadernos/Temporal_Fusion_Transformer.ipynb)
    - Tutorial Pytorch-forecasting [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Series%20de%20Tiempo/Cuadernos/Pytorch_forecasting.ipynb)
 
-- Tratamiento de Imágenes :framed_picture:
-  - [Introducción a Convoluciones](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_convoluciones.ipynb)
-  - [Redes Neuronales Convolucionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
-  - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
+## Visión por computador :framed_picture:
+  - Introducción a Convoluciones [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_convoluciones.ipynb)
+  - Redes Neuronales Convolucionales [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
+  - Cats Vs Dogs (Kaggle Competition) [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
   - Redes Profundas Modernas [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb)
   - Transfer Learning [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/Cuadernos/tl_transfer_learning.ipynb)
-  - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
-  - [Redes Residuales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/ResNet.ipynb)
-  - [Audios tratados como Imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
-  - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
-  - [GANS](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb)
-  - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
+  - Detección y Reconocimiento Facial [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
+  - Redes Residuales [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/ResNet.ipynb)
+  - Audios tratados como Imágenes [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
+  - Análisis de Sentimientos en videos [nbviewer](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
+  - Redes Generativas adversiarias - GANS [github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb)
+  - StyleGAN (Jeff Heaton) [Github](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
   - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
   - [Segmentación II](https://colab.research.google.com/drive/1V_S9RygDS0kk7hxyVg0_6rQhk4Seqd1F?usp=sharing)
 
