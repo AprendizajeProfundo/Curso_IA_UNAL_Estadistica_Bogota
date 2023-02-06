@@ -29,3 +29,16 @@ Curso de Inteligencia Artificial. Departamento de Estadística, Sede Bogotá, UN
 - Taller Pandas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Pandas.ipynb)
 - Taller Matplotlib [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
 - Taller Programación Básica enfocado a Contenido Web [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Web.ipynb)
+
+## Matemáticas :books:
+
+- Concepto de Modelación Matemática [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/mod_Modelamiento.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/mod_Modelamiento.ipynb)
+- Ejemplo de Modelación Matemática [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/mod_Ejemplo_Modelamiento.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
+- Concepto de Derivadas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/cal_derivadas.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/cal_derivadas.ipynb)
+- Optimización moderna: Gradiente descendiente estocástico [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/optimizacion_sgd.ipynb)
+- Diferenciación automática y optimización univariada con JAX [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Optimization_1.ipynb)
+- Diferenciación automática y optimización multivariada con JAX [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Optimization_2.ipynb)
+- Introducción al Algebra Lineal [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/IntroAlgebraLineal.ipynb)
+- Introducción a Tensores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/t_0010_Intro_Tensores.ipynb)
+- Algebra Tensorial [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/t_0020_Algebra_Tensorial.ipynb)
+- Jugando con Tensores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/t_0030_Tensores_Redes_Imagenes.ipynb)
