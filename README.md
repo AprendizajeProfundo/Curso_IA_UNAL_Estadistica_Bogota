@@ -56,19 +56,22 @@ Curso de Inteligencia Artificial. Departamento de Estadística, Sede Bogotá, UN
  ## Redes Neuronales
  - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [diapositivas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
 - Funciones de activación [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Activation_Functions.ipynb)
+
 ### Pytorch :fire:
    - Inicio rápido [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_01.ipynb)
-   - Tensores [nbviewer(https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_02.ipynb)
+   - Tensores [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_02.ipynb)
    - Datasets y Dataloader [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_03.ipynb)
-   - [Transformaciones](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_04.ipynb)
-   - [Optimzación con torch.autograd](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_05.ipynb)
-   - [Entrenamiento de modelos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_06.ipynb)
-
-- Tensorflow :fire:
-   - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
-   - [Datasets. La API tf.data](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
+   - Transformaciones [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_04.ipynb)
+   - Optimzación con torch.autograd [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_05.ipynb)
+   - Entrenamiento de modelos [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_06.ipynb)
+  
+### Tensorflow :fire:
+   - Inicio rápido [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
+   - Datasets. La API tf.data [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
+  
 - Primera Red Neuronal con la API Sequential de Keras (Simulación) [nbviewer](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Hello_World_ML.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Hello_World_ML.ipynb)
 [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.html)
+
 - Ejemplo de Visualización del entrenamiento de una red neuronal[nbviewer](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_NN_Animation.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_NN_Animation.ipynb)
 - Primera Red Neuronal con la API Sequential de Keras (MNIST) [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Intro_Keras_Sequential.ipynb)
 - Red Neuronal Desde Cero [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Red_De_Cero.ipynb)
