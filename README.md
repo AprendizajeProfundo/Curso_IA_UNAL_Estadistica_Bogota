@@ -64,7 +64,7 @@ Curso de Inteligencia Artificial. Departamento de Estadística, Sede Bogotá, UN
 - Ejemplo eliminación de ruido con datos MNIST [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb) ,[nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
 - Autocodificador Convolucional para Eliminación de Ruido [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/Noise_Elimination_Conv.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
 
-
+## Modelos recurrentes o secuenciales
   - Introducción a modelos secuenciales [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
   - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
   - Introducción a redes LSTM [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
